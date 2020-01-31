@@ -1,0 +1,21 @@
+.tittle{
+    color:rgb(150, 55, 45)!important;
+    text-align: left;
+}
+.normal-text{
+    font-size: 30px !important;
+}
+.slides{
+    width: 100% !important;
+}
+.padder{
+    padding-bottom: 0.8% !important;
+    padding-right: 1% !important;
+}
+.left-padder{
+    padding-left: 1% !important;
+    top: -14px !important;
+}
+.chinese-room{
+    top: -14px !important;
+}
