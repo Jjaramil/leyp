@@ -1,6 +1,7 @@
 .tittle{
     color:rgb(150, 55, 45)!important;
     text-align: left;
+
 }
 .normal-text{
     font-size: 30px !important;
@@ -18,4 +19,35 @@
 }
 .chinese-room{
     top: -14px !important;
+}
+.first{
+    max-width: 67%;
+    margin-left: 18% !important;
+}
+.container{
+    max-width: 100% !important;
+}
+.centered{
+    margin: auto auto 2% auto !important;
+}
+
+section{
+    top:0 !important;
+}
+
+.whatsapp-img{
+
+    background: none !important;
+    box-shadow: none !important;
+    max-width: 47% !important;
+    max-height: 75% !important;
+    margin: auto !important;
+}
+.ufv-img{
+    background: none !important;
+    box-shadow: none !important;
+}
+.number-list{
+    padding: 4% !important;
+    font-size: 2rem !important;
 }
